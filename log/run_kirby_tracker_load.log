@@ -1,0 +1,589 @@
+=== Running Kirby Tracker Load at Thu Mar 13 14:44:19 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Thu Mar 13 14:49:06 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Thu Mar 13 16:30:00 PDT 2025 ===
+/Users/yi-ninghuang/Documents/Python_Project/bin/run_kirby_tracker_load.sh: line 5: python: command not found
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 16:45:00 PDT 2025 ===
+/Users/yi-ninghuang/Documents/Python_Project/bin/run_kirby_tracker_load.sh: line 5: python: command not found
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 17:00:00 PDT 2025 ===
+/Users/yi-ninghuang/Documents/Python_Project/bin/run_kirby_tracker_load.sh: line 5: python: command not found
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 17:02:34 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Thu Mar 13 17:15:00 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 17:30:00 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 17:45:00 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 18:00:00 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 18:15:00 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 18:30:00 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 18:45:00 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 19:00:00 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 19:33:17 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 19:45:52 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 20:01:05 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 20:15:17 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 21:35:48 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 21:45:00 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 22:12:55 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Thu Mar 13 22:18:29 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Thu Mar 13 22:30:01 PDT 2025 ===
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 22:36:43 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Thu Mar 13 23:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Thu Mar 13 23:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 00:00:01 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 00:28:54 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 00:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 01:00:01 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 01:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 02:00:01 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 02:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 05:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 05:30:01 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 06:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 09:02:42 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 10:03:51 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 10:18:39 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 10:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 11:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 11:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 12:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 12:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 13:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 13:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 14:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 14:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 14:32:14 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 15:00:01 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 15:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 16:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 16:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 17:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 17:30:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 19, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 14 17:50:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 18:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 19:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 20:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 21:06:41 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 21:08:13 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 22:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 23:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 23:22:22 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 14 23:30:41 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 00:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 01:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 02:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 03:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 04:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 09:02:24 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 10:03:34 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 11:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 12:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 13:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 14:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 14:14:30 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 15:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 16:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 17:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 18:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 19:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 20:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 15 23:01:49 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 00:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 00:22:28 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 01:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 02:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 03:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 06:01:19 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 08:02:12 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 09:03:19 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 10:04:51 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 12:03:29 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 13:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 16 14:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Mon Mar 17 00:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Mon Mar 17 12:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Tue Mar 18 00:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Tue Mar 18 12:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Wed Mar 19 00:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Wed Mar 19 11:13:42 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Wed Mar 19 12:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Thu Mar 20 00:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedTable: relation "kirby.activity" does not exist
+LINE 1: select max(act_datetime) as max_act_datetime from postgres.k...
+                                                          ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 161, in <module>
+    main()
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 153, in main
+    transform_load_to_postgresql(df, db_host, db_port, db_name, db_user, db_password, db_schema, db_table)
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 104, in transform_load_to_postgresql
+    result = conn.execute(query).scalar()
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1291, in execute
+    return self._exec_driver_sql(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1595, in _exec_driver_sql
+    ret = self._execute_context(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedTable) relation "kirby.activity" does not exist
+LINE 1: select max(act_datetime) as max_act_datetime from postgres.k...
+                                                          ^
+
+[SQL: select max(act_datetime) as max_act_datetime from postgres.kirby.activity;]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Fri Mar 21 12:00:01 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedTable: relation "kirby.activity" does not exist
+LINE 1: select max(act_datetime) as max_act_datetime from postgres.k...
+                                                          ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 161, in <module>
+    main()
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 153, in main
+    transform_load_to_postgresql(df, db_host, db_port, db_name, db_user, db_password, db_schema, db_table)
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 104, in transform_load_to_postgresql
+    result = conn.execute(query).scalar()
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1291, in execute
+    return self._exec_driver_sql(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1595, in _exec_driver_sql
+    ret = self._execute_context(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedTable) relation "kirby.activity" does not exist
+LINE 1: select max(act_datetime) as max_act_datetime from postgres.k...
+                                                          ^
+
+[SQL: select max(act_datetime) as max_act_datetime from postgres.kirby.activity;]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Sat Mar 22 00:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedTable: relation "kirby.activity" does not exist
+LINE 1: select max(act_datetime) as max_act_datetime from postgres.k...
+                                                          ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 161, in <module>
+    main()
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 153, in main
+    transform_load_to_postgresql(df, db_host, db_port, db_name, db_user, db_password, db_schema, db_table)
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 104, in transform_load_to_postgresql
+    result = conn.execute(query).scalar()
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1291, in execute
+    return self._exec_driver_sql(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1595, in _exec_driver_sql
+    ret = self._execute_context(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedTable) relation "kirby.activity" does not exist
+LINE 1: select max(act_datetime) as max_act_datetime from postgres.k...
+                                                          ^
+
+[SQL: select max(act_datetime) as max_act_datetime from postgres.kirby.activity;]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Sat Mar 22 12:00:00 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedTable: relation "kirby.activity" does not exist
+LINE 1: select max(act_datetime) as max_act_datetime from postgres.k...
+                                                          ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 161, in <module>
+    main()
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 153, in main
+    transform_load_to_postgresql(df, db_host, db_port, db_name, db_user, db_password, db_schema, db_table)
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 104, in transform_load_to_postgresql
+    result = conn.execute(query).scalar()
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1291, in execute
+    return self._exec_driver_sql(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1595, in _exec_driver_sql
+    ret = self._execute_context(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedTable) relation "kirby.activity" does not exist
+LINE 1: select max(act_datetime) as max_act_datetime from postgres.k...
+                                                          ^
+
+[SQL: select max(act_datetime) as max_act_datetime from postgres.kirby.activity;]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Sat Mar 22 19:52:44 PDT 2025 ===
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedTable: relation "kirby.activity" does not exist
+LINE 1: select max(act_datetime) as max_act_datetime from postgres.k...
+                                                          ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 161, in <module>
+    main()
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 153, in main
+    transform_load_to_postgresql(df, db_host, db_port, db_name, db_user, db_password, db_schema, db_table)
+  File "/Users/yi-ninghuang/Documents/Python_Project/bin/kirby_tracker_loader.py", line 104, in transform_load_to_postgresql
+    result = conn.execute(query).scalar()
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1291, in execute
+    return self._exec_driver_sql(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1595, in _exec_driver_sql
+    ret = self._execute_context(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1862, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 2043, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/base.py", line 1819, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/yi-ninghuang/opt/anaconda3/lib/python3.9/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.errors.UndefinedTable) relation "kirby.activity" does not exist
+LINE 1: select max(act_datetime) as max_act_datetime from postgres.k...
+                                                          ^
+
+[SQL: select max(act_datetime) as max_act_datetime from postgres.kirby.activity;]
+(Background on this error at: https://sqlalche.me/e/14/f405)
+Kirby Tracker Load Failed
+=== Running Kirby Tracker Load at Sun Mar 23 00:02:13 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Mon Mar 24 00:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Mon Mar 24 11:17:10 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Mon Mar 24 12:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Tue Mar 25 00:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Tue Mar 25 00:43:38 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Tue Mar 25 12:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Wed Mar 26 00:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Wed Mar 26 11:13:54 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Wed Mar 26 12:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Thu Mar 27 00:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Thu Mar 27 12:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Thu Mar 27 15:15:17 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 28 00:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Fri Mar 28 12:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sat Mar 29 00:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Sun Mar 30 00:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Mon Mar 31 00:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Mon Mar 31 12:00:01 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Tue Apr  1 00:00:00 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Tue Apr  1 12:05:36 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Tue Apr  1 14:06:50 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Tue Apr  1 14:54:22 PDT 2025 ===
+Kirby Tracker Load Successful
+=== Running Kirby Tracker Load at Tue Apr  1 14:55:41 PDT 2025 ===
+Kirby Tracker Load Successful

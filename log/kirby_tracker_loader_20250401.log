@@ -1,0 +1,95 @@
+2025-04-01 00:01 - __main__ - INFO - ===================== Run # 1 ====================
+2025-04-01 00:01 - __main__ - INFO - Starting to fetch config
+2025-04-01 00:01 - __main__ - INFO - The config is fetched
+2025-04-01 00:01 - __main__ - INFO - Starting the read process
+2025-04-01 00:01 - __main__ - INFO - The read process is complete
+2025-04-01 00:01 - __main__ - INFO - Starting the load process
+2025-04-01 00:01 - __main__ - INFO - Max Datetime from PostgreSQL:  2025-03-27 11:30:00
+2025-04-01 00:01 - __main__ - INFO - Max Datetime from Excel Sheet: 2025-03-27 11:30:00
+2025-04-01 00:01 - __main__ - INFO - No new data is found.
+2025-04-01 00:01 - __main__ - INFO - The load process is complete
+2025-04-01 12:07 - __main__ - INFO - ===================== Run # 2 ====================
+2025-04-01 12:07 - __main__ - INFO - Starting to fetch config
+2025-04-01 12:07 - __main__ - INFO - The config is fetched
+2025-04-01 12:07 - __main__ - INFO - Starting the read process
+2025-04-01 12:07 - __main__ - INFO - The read process is complete
+2025-04-01 12:07 - __main__ - INFO - Starting the load process
+2025-04-01 12:07 - __main__ - INFO - Max Datetime from PostgreSQL:  2025-03-27 11:30:00
+2025-04-01 12:07 - __main__ - INFO - Max Datetime from Excel Sheet: 2025-03-27 11:30:00
+2025-04-01 12:07 - __main__ - INFO - No new data is found.
+2025-04-01 12:07 - __main__ - INFO - The load process is complete
+2025-04-01 13:34 - __main__ - INFO - TEST-ADDING STEP TO EXECUTE STORED PROC!!!
+2025-04-01 13:36 - __main__ - INFO - ===================== Run # 3 ====================
+2025-04-01 13:36 - __main__ - INFO - Starting to fetch config
+2025-04-01 13:36 - __main__ - INFO - The config is fetched
+2025-04-01 13:36 - __main__ - INFO - Starting the read process
+2025-04-01 13:36 - __main__ - INFO - The read process is complete
+2025-04-01 13:36 - __main__ - INFO - Starting the load process
+2025-04-01 13:36 - __main__ - INFO - Max Datetime from PostgreSQL:  2025-03-27 11:30:00
+2025-04-01 13:36 - __main__ - INFO - Max Datetime from Excel Sheet: 2025-03-27 22:25:00
+2025-04-01 13:36 - __main__ - INFO - 14 new rows identified
+2025-04-01 13:36 - __main__ - INFO - Data loaded into PostgreSQL table 'fact_activity' successfully.
+2025-04-01 13:36 - __main__ - INFO - Starting to populate indicators...
+2025-04-01 13:36 - __main__ - INFO - Potty indicators are updated successfully.
+2025-04-01 13:36 - __main__ - INFO - The load process is complete
+2025-04-01 13:36 - __main__ - INFO - ===================== Run # 4 ====================
+2025-04-01 13:36 - __main__ - INFO - Starting to fetch config
+2025-04-01 13:36 - __main__ - INFO - The config is fetched
+2025-04-01 13:36 - __main__ - INFO - Starting the read process
+2025-04-01 13:36 - __main__ - INFO - The read process is complete
+2025-04-01 13:36 - __main__ - INFO - Starting the load process
+2025-04-01 13:36 - __main__ - INFO - Max Datetime from PostgreSQL:  2025-03-27 22:25:00
+2025-04-01 13:36 - __main__ - INFO - Max Datetime from Excel Sheet: 2025-03-27 22:25:00
+2025-04-01 13:36 - __main__ - INFO - No new data is found.
+2025-04-01 13:36 - __main__ - INFO - Starting to populate indicators...
+2025-04-01 13:36 - __main__ - INFO - Potty indicators are updated successfully.
+2025-04-01 13:36 - __main__ - INFO - The load process is complete
+2025-04-01 13:50 - __main__ - INFO - ===================== Run # 5 ====================
+2025-04-01 13:50 - __main__ - INFO - Starting to fetch config
+2025-04-01 13:50 - __main__ - INFO - The config is fetched
+2025-04-01 13:50 - __main__ - INFO - Starting the read process
+2025-04-01 13:50 - __main__ - INFO - The read process is complete
+2025-04-01 13:50 - __main__ - INFO - Starting the load process
+2025-04-01 13:50 - __main__ - INFO - Max Datetime from PostgreSQL:  2025-03-27 22:25:00
+2025-04-01 13:50 - __main__ - INFO - Max Datetime from Excel Sheet: 2025-03-28 08:40:00
+2025-04-01 13:50 - __main__ - INFO - 7 new rows identified
+2025-04-01 13:50 - __main__ - INFO - Data loaded into PostgreSQL table 'fact_activity' successfully.
+2025-04-01 13:50 - __main__ - INFO - Starting to populate indicators...
+2025-04-01 13:50 - __main__ - INFO - Potty indicators are updated successfully.
+2025-04-01 13:50 - __main__ - INFO - The load process is complete
+2025-04-01 14:06 - __main__ - INFO - ===================== Run # 6 ====================
+2025-04-01 14:06 - __main__ - INFO - Starting to fetch config
+2025-04-01 14:06 - __main__ - INFO - The config is fetched
+2025-04-01 14:06 - __main__ - INFO - Starting the read process
+2025-04-01 14:06 - __main__ - INFO - The read process is complete
+2025-04-01 14:06 - __main__ - INFO - Starting the load process
+2025-04-01 14:06 - __main__ - INFO - Max Datetime from PostgreSQL:  2025-03-28 08:40:00
+2025-04-01 14:06 - __main__ - INFO - Max Datetime from Excel Sheet: 2025-03-28 13:43:00
+2025-04-01 14:06 - __main__ - INFO - 7 new rows identified
+2025-04-01 14:06 - __main__ - INFO - Data loaded into PostgreSQL table 'fact_activity' successfully.
+2025-04-01 14:06 - __main__ - INFO - Starting to populate indicators...
+2025-04-01 14:06 - __main__ - INFO - Potty indicators are updated successfully.
+2025-04-01 14:06 - __main__ - INFO - The load process is complete
+2025-04-01 14:54 - __main__ - INFO - ===================== Run # 7 ====================
+2025-04-01 14:54 - __main__ - INFO - Starting to fetch config
+2025-04-01 14:54 - __main__ - INFO - The config is fetched
+2025-04-01 14:54 - __main__ - INFO - Starting the read process
+2025-04-01 14:54 - __main__ - INFO - The read process is complete
+2025-04-01 14:54 - __main__ - INFO - Starting the load process
+2025-04-01 14:54 - __main__ - INFO - Max Datetime from PostgreSQL:  2025-03-28 13:43:00
+2025-04-01 14:54 - __main__ - INFO - Max Datetime from Excel Sheet: 2025-04-01 14:30:00
+2025-04-01 14:54 - __main__ - INFO - 72 new rows identified
+2025-04-01 14:54 - __main__ - INFO - Data loaded into PostgreSQL table 'fact_activity' successfully.
+2025-04-01 14:54 - __main__ - INFO - Starting to populate indicators...
+2025-04-01 14:54 - __main__ - INFO - Potty indicators are updated successfully.
+2025-04-01 14:54 - __main__ - INFO - The load process is complete
+2025-04-01 14:55 - __main__ - INFO - ===================== Run # 8 ====================
+2025-04-01 14:55 - __main__ - INFO - Starting to fetch config
+2025-04-01 14:55 - __main__ - INFO - The config is fetched
+2025-04-01 14:55 - __main__ - INFO - Starting the read process
+2025-04-01 14:55 - __main__ - INFO - The read process is complete
+2025-04-01 14:55 - __main__ - INFO - Starting the load process
+2025-04-01 14:55 - __main__ - INFO - Max Datetime from PostgreSQL:  2025-04-01 14:30:00
+2025-04-01 14:55 - __main__ - INFO - Max Datetime from Excel Sheet: 2025-04-01 14:30:00
+2025-04-01 14:55 - __main__ - INFO - No new data is found.
+2025-04-01 14:55 - __main__ - INFO - The load process is complete
