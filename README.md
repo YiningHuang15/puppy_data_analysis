@@ -7,7 +7,7 @@ The ETL diagram is shown below. Incremental data is extracted from excel to post
 
 ![alt text](https://github.com/YiningHuang15/puppy_data_analysis/blob/main/viz/dashboard_0401.png)
 The Tableau dashboard is available in Tableau Public:
-[!Puppy Potty Training Analysis Dashboard](https://public.tableau.com/app/profile/yi.ning.huang6608/viz/PuppyPottyTrainingAnalysisDashboard/PuppyPottyTrainingAnalysisDashboard?publish=yes)
+[Puppy Potty Training Analysis Dashboard](https://public.tableau.com/app/profile/yi.ning.huang6608/viz/PuppyPottyTrainingAnalysisDashboard/PuppyPottyTrainingAnalysisDashboard?publish=yes)
 
 
 ## Folder Structure
